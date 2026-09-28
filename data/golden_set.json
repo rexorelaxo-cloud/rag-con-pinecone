@@ -1,0 +1,22 @@
+[
+  {
+    "pregunta": "¿Qué es SDLXLIFF y cómo lo usa internamente Trados Studio?",
+    "documento_id_esperado": "sdlxliff.md"
+  },
+  {
+    "pregunta": "Si una oración nueva es casi, pero no exactamente, igual a una que ya se tradujo antes, ¿una herramienta CAT va a sugerir reutilizarla, y cuánto debería confiar el traductor en esa sugerencia?",
+    "documento_id_esperado": "match-percentages.md"
+  },
+  {
+    "pregunta": "¿Por qué traducir una etiqueta corta de un botón en inglés al alemán puede a veces romper el diseño de la interfaz?",
+    "documento_id_esperado": "character-limits.md"
+  },
+  {
+    "pregunta": "¿Cómo puede un ingeniero de localización escribir expresiones de XPath para seleccionar solo los nodos traducibles en una exportación XML personalizada de un cliente?",
+    "documento_id_esperado": "xpath-basics.md"
+  },
+  {
+    "pregunta": "¿Qué tipo de chequeos automáticos detectan cuando un traductor usa un término que no coincide con el glosario aprobado?",
+    "documento_id_esperado": "linguistic-qa.md"
+  }
+]
