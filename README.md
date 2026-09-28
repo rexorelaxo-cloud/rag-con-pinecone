@@ -95,7 +95,3 @@ El script le hace las 5 preguntas del Golden Set al `RAGSystem` y para cada una 
 - **Precision@5**: cuántos de los 5 resultados son el documento correcto, dividido 5. Como solo hay un documento correcto marcado por pregunta, acertar da como máximo 0.20.
 
 Al final muestra el promedio de las 5 preguntas.
-
-## Resultados
-
-No llegué a correr la evaluación completa en el entorno donde armé el proyecto, porque no tenía las API keys ahí. Corré `python evaluate.py` con tus propias keys y pegá acá el resultado que te tira la consola.
